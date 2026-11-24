@@ -1,0 +1,6 @@
+{
+  "name": "Physics Pulse",
+  "description": "Unstoppable physics quiz featuring 15 shuffled multi-topic theory questions and an endless math-physics calculation mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

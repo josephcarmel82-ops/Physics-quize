@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Physics Pulse</string>
+    <string name="hero_banner_desc">Glowing atomic orbit and physics prism illustration</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="jump_to_endless">Endless Math Mode</string>
+    <string name="quit_quiz">Quit</string>
+    <string name="next_question">Next Question</string>
+    <string name="enter_endless_mode">Enter Endless Mode</string>
+    <string name="submit_answer">Submit</string>
+    <string name="play_again">Play Again</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="view_results">Finish &amp; View Score</string>
+    <string name="share_score">Share Score</string>
+    <string name="share_app">Share Physics Pulse</string>
+</resources>
